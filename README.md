@@ -7,7 +7,7 @@
 <p align="center">
 I'm a <b>Web Developer</b> from Egypt 🇪🇬 passionate about creating responsive, modern, and user-friendly websites.  
 I specialize in <b>Front-end and Back-end development</b>, and I love transforming creative ideas into real digital experiences. 🚀  
-Currently, I'm improving my skills in <b>JavaScript, React, and Node.js</b>.
+Currently, I'm improving my skills in <b>JavaScript, React, Node.js, Python, and Django</b>.
 </p>
 
 <p align="center">
@@ -52,6 +52,8 @@ I’m also interested in integrating <b>Artificial Intelligence</b> into web app
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%23061DAF.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -60,6 +62,17 @@ I’m also interested in integrating <b>Artificial Intelligence</b> into web app
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dfrt122330-alt&show_icons=true&theme=radical">
+</p>
+
+<hr>
+
+<h3 align="center">🧩 Featured Projects</h3>
+
+<p align="center">
+  🚀 <b>Portfolio Website</b> – Built with React, Django, and Tailwind CSS.  
+  <br>🧠 <b>AI Blog Generator</b> – Python & OpenAI API for generating smart content.  
+  <br>💼 <b>Business Dashboard</b> – Node.js & MongoDB web app for analytics.  
+  <br>🎨 <b>Modern Landing Page</b> – Responsive design using HTML, CSS, and JavaScript.
 </p>
 
 <hr>
